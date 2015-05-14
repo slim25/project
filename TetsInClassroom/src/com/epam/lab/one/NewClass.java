@@ -2,6 +2,6 @@ package com.epam.lab.one;
 
 public class NewClass {
 	public void start(){
-		System.out.println("new code"); // Add some comments
+		System.out.println("new code"); //commit 2
 	}
 }
