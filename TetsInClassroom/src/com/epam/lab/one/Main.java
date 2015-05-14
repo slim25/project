@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println(EXAMPLE_TEST.matches("\\w.*"));
+		System.out.println(EXAMPLE_TEST.matches("\\w.*"));// new comments
 		String[] splitString = (EXAMPLE_TEST.split("\\s+"));
 		System.out.println(splitString.length);// should be 14
 		for (String string : splitString) {
